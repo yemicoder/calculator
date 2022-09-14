@@ -1,1 +1,1 @@
-# This is a simple clone of the ios calculaor app
+# This is a simple clone of the ios calculator app
